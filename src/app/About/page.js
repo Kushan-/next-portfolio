@@ -1,6 +1,6 @@
 import React from 'react'
 
-import {About} from '../_components/components/About'
+import About from '../_components/components/About'
 
 const AboutPage = () => {
   return (
@@ -10,4 +10,4 @@ const AboutPage = () => {
   )
 }
 
-export default AboutPage
+export default About
